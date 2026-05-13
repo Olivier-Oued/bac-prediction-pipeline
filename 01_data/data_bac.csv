@@ -1,0 +1,507 @@
+,code,age,level,subject,evaluation,mark
+0,774775ff88297314ea8686c0785f9b8ec0ba6c08fe90dc80cdb5314e984a4136,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"18,50"
+1,774775ff88297314ea8686c0785f9b8ec0ba6c08fe90dc80cdb5314e984a4136,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"16,00"
+2,774775ff88297314ea8686c0785f9b8ec0ba6c08fe90dc80cdb5314e984a4136,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"12,75"
+3,774775ff88297314ea8686c0785f9b8ec0ba6c08fe90dc80cdb5314e984a4136,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"11,50"
+4,774775ff88297314ea8686c0785f9b8ec0ba6c08fe90dc80cdb5314e984a4136,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"16,00"
+5,e304257f73defb90f3ac0348479b4d97fef4e1f3ce94163b6a4dabb332c2311f,17.5, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"10,00"
+6,e304257f73defb90f3ac0348479b4d97fef4e1f3ce94163b6a4dabb332c2311f,17.5, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"00,00"
+7,e304257f73defb90f3ac0348479b4d97fef4e1f3ce94163b6a4dabb332c2311f,17.5, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"05,25"
+8,e304257f73defb90f3ac0348479b4d97fef4e1f3ce94163b6a4dabb332c2311f,17.5, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"00,25"
+9,e304257f73defb90f3ac0348479b4d97fef4e1f3ce94163b6a4dabb332c2311f,17.5, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"04,00"
+10,089cbcd7ab9beea0aef9b54b898e57986d20e6c3fa48d9a5fb162093b2e28c1f,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"17,00"
+11,089cbcd7ab9beea0aef9b54b898e57986d20e6c3fa48d9a5fb162093b2e28c1f,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"11,75"
+12,089cbcd7ab9beea0aef9b54b898e57986d20e6c3fa48d9a5fb162093b2e28c1f,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"13,50"
+13,089cbcd7ab9beea0aef9b54b898e57986d20e6c3fa48d9a5fb162093b2e28c1f,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"15,75"
+14,089cbcd7ab9beea0aef9b54b898e57986d20e6c3fa48d9a5fb162093b2e28c1f,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"06,50"
+15,c25cb1801a00d4b4f65c451370415fa4467711324f3785e60831df6cd2d5c5dc,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"16,50"
+16,c25cb1801a00d4b4f65c451370415fa4467711324f3785e60831df6cd2d5c5dc,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"15,00"
+17,c25cb1801a00d4b4f65c451370415fa4467711324f3785e60831df6cd2d5c5dc,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"11,75"
+18,c25cb1801a00d4b4f65c451370415fa4467711324f3785e60831df6cd2d5c5dc,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"13,00"
+19,c25cb1801a00d4b4f65c451370415fa4467711324f3785e60831df6cd2d5c5dc,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"10,50"
+20,faf6506a7303857be37b2b3377f1ec25e7edbc027d82c829117eb3ef16567f5f,19.25, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"16,00"
+21,faf6506a7303857be37b2b3377f1ec25e7edbc027d82c829117eb3ef16567f5f,19.25, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"15,00"
+22,faf6506a7303857be37b2b3377f1ec25e7edbc027d82c829117eb3ef16567f5f,19.25, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"16,00"
+23,faf6506a7303857be37b2b3377f1ec25e7edbc027d82c829117eb3ef16567f5f,19.25, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"14,75"
+24,faf6506a7303857be37b2b3377f1ec25e7edbc027d82c829117eb3ef16567f5f,19.25, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"07,00"
+25,229c45ecb373ae866fb31deea2b24c6984087198b6c718ced3d28b5f7b420f80,17.5, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"17,00"
+26,229c45ecb373ae866fb31deea2b24c6984087198b6c718ced3d28b5f7b420f80,17.5, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"18,75"
+27,229c45ecb373ae866fb31deea2b24c6984087198b6c718ced3d28b5f7b420f80,17.5, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"13,25"
+28,229c45ecb373ae866fb31deea2b24c6984087198b6c718ced3d28b5f7b420f80,17.5, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"14,75"
+29,229c45ecb373ae866fb31deea2b24c6984087198b6c718ced3d28b5f7b420f80,17.5, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"15,50"
+30,0a963245a42c3294bef7a1f93606c98a1e69b1f1b5cadd46fa17cec79bdf8afc,17.75, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"18,00"
+31,0a963245a42c3294bef7a1f93606c98a1e69b1f1b5cadd46fa17cec79bdf8afc,17.75, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"08,75"
+32,0a963245a42c3294bef7a1f93606c98a1e69b1f1b5cadd46fa17cec79bdf8afc,17.75, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"11,75"
+33,0a963245a42c3294bef7a1f93606c98a1e69b1f1b5cadd46fa17cec79bdf8afc,17.75, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"11,50"
+34,0a963245a42c3294bef7a1f93606c98a1e69b1f1b5cadd46fa17cec79bdf8afc,17.75, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"08,00"
+35,d7a7aea35d087926e35f85a3f3d8fe85983cf7985ce3d6853ab2fef90a3c405a,17.25, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"14,50"
+36,d7a7aea35d087926e35f85a3f3d8fe85983cf7985ce3d6853ab2fef90a3c405a,17.25, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"05,25"
+37,d7a7aea35d087926e35f85a3f3d8fe85983cf7985ce3d6853ab2fef90a3c405a,17.25, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"06,75"
+38,d7a7aea35d087926e35f85a3f3d8fe85983cf7985ce3d6853ab2fef90a3c405a,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"05,25"
+39,d7a7aea35d087926e35f85a3f3d8fe85983cf7985ce3d6853ab2fef90a3c405a,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"09,00"
+40,404912962244a4be83172573832c9dcc0df022f8a6c5988cb061205689c4ee44,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"07,50"
+41,404912962244a4be83172573832c9dcc0df022f8a6c5988cb061205689c4ee44,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"02,25"
+42,404912962244a4be83172573832c9dcc0df022f8a6c5988cb061205689c4ee44,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"05,75"
+43,404912962244a4be83172573832c9dcc0df022f8a6c5988cb061205689c4ee44,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"03,75"
+44,404912962244a4be83172573832c9dcc0df022f8a6c5988cb061205689c4ee44,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"10,00"
+45,cf1ca85b93eed23666f9c7e81a6bf5557ca7a3210f3564f358aa94a0561b9256,16.75, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"16,00"
+46,cf1ca85b93eed23666f9c7e81a6bf5557ca7a3210f3564f358aa94a0561b9256,16.75, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"10,75"
+47,cf1ca85b93eed23666f9c7e81a6bf5557ca7a3210f3564f358aa94a0561b9256,16.75, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"12,00"
+48,cf1ca85b93eed23666f9c7e81a6bf5557ca7a3210f3564f358aa94a0561b9256,16.75, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"12,50"
+49,cf1ca85b93eed23666f9c7e81a6bf5557ca7a3210f3564f358aa94a0561b9256,16.75, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"04,50"
+50,3380131873b9102da00c6532cb002519aeb52670e376a4a109c5982e57e0f627,17.25, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"14,00"
+51,3380131873b9102da00c6532cb002519aeb52670e376a4a109c5982e57e0f627,17.25, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"13,50"
+52,3380131873b9102da00c6532cb002519aeb52670e376a4a109c5982e57e0f627,17.25, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"06,25"
+53,3380131873b9102da00c6532cb002519aeb52670e376a4a109c5982e57e0f627,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"07,75"
+54,3380131873b9102da00c6532cb002519aeb52670e376a4a109c5982e57e0f627,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"08,50"
+55,5211d6062db17ab460e1d99be4635bd1265dd9eaabf2bcb5c8f81fda03cb22c3,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"19,00"
+56,5211d6062db17ab460e1d99be4635bd1265dd9eaabf2bcb5c8f81fda03cb22c3,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"17,00"
+57,5211d6062db17ab460e1d99be4635bd1265dd9eaabf2bcb5c8f81fda03cb22c3,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"13,00"
+58,5211d6062db17ab460e1d99be4635bd1265dd9eaabf2bcb5c8f81fda03cb22c3,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"17,50"
+59,5211d6062db17ab460e1d99be4635bd1265dd9eaabf2bcb5c8f81fda03cb22c3,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"15,00"
+60,346488aa7091befa4cf47f74aff4bf83ea31b9350b8639ce06082c647d19ef94,17.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"12,00"
+61,346488aa7091befa4cf47f74aff4bf83ea31b9350b8639ce06082c647d19ef94,17.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"08,50"
+62,346488aa7091befa4cf47f74aff4bf83ea31b9350b8639ce06082c647d19ef94,17.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"06,00"
+63,346488aa7091befa4cf47f74aff4bf83ea31b9350b8639ce06082c647d19ef94,17.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"09,50"
+64,346488aa7091befa4cf47f74aff4bf83ea31b9350b8639ce06082c647d19ef94,17.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"04,50"
+65,1de77fb0a4307b2bd0a6b62e4dcd37df04544a97e001b455dd846d30db1b535c,18.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"19,25"
+66,1de77fb0a4307b2bd0a6b62e4dcd37df04544a97e001b455dd846d30db1b535c,18.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"13,25"
+67,1de77fb0a4307b2bd0a6b62e4dcd37df04544a97e001b455dd846d30db1b535c,18.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"17,50"
+68,1de77fb0a4307b2bd0a6b62e4dcd37df04544a97e001b455dd846d30db1b535c,18.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"10,25"
+69,1de77fb0a4307b2bd0a6b62e4dcd37df04544a97e001b455dd846d30db1b535c,18.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"02,50"
+70,bd5775bac9d596a9d1c7e5568fa840452cc42b35bf974113058df0275933ad9b,17.416666666666668, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"12,50"
+71,bd5775bac9d596a9d1c7e5568fa840452cc42b35bf974113058df0275933ad9b,17.416666666666668, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+72,bd5775bac9d596a9d1c7e5568fa840452cc42b35bf974113058df0275933ad9b,17.416666666666668, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"08,00"
+73,bd5775bac9d596a9d1c7e5568fa840452cc42b35bf974113058df0275933ad9b,17.416666666666668, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+74,bd5775bac9d596a9d1c7e5568fa840452cc42b35bf974113058df0275933ad9b,17.416666666666668, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+75,ed288aaa3707a90a6de5acaf7ff8d59d17d7d3eab2ec22d2f002cb4584fe29a0,17.666666666666668, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"14,00"
+76,ed288aaa3707a90a6de5acaf7ff8d59d17d7d3eab2ec22d2f002cb4584fe29a0,17.666666666666668, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+77,ed288aaa3707a90a6de5acaf7ff8d59d17d7d3eab2ec22d2f002cb4584fe29a0,17.666666666666668, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"09,00"
+78,ed288aaa3707a90a6de5acaf7ff8d59d17d7d3eab2ec22d2f002cb4584fe29a0,17.666666666666668, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+79,ed288aaa3707a90a6de5acaf7ff8d59d17d7d3eab2ec22d2f002cb4584fe29a0,17.666666666666668, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+80,bedafd43bcbfee1f959d68b91c0575b21c8f61d7833c815b9186c138d464862f,18.0, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"08,00"
+81,bedafd43bcbfee1f959d68b91c0575b21c8f61d7833c815b9186c138d464862f,18.0, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+82,bedafd43bcbfee1f959d68b91c0575b21c8f61d7833c815b9186c138d464862f,18.0, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"08,75"
+83,bedafd43bcbfee1f959d68b91c0575b21c8f61d7833c815b9186c138d464862f,18.0, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+84,bedafd43bcbfee1f959d68b91c0575b21c8f61d7833c815b9186c138d464862f,18.0, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+85,f5faf1f52ba7a61bdb46fd6b722cd8913002de6f415a7990b170fd6b5f644568,17.75, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"13,37"
+86,f5faf1f52ba7a61bdb46fd6b722cd8913002de6f415a7990b170fd6b5f644568,17.75, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+87,f5faf1f52ba7a61bdb46fd6b722cd8913002de6f415a7990b170fd6b5f644568,17.75, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"15,25"
+88,f5faf1f52ba7a61bdb46fd6b722cd8913002de6f415a7990b170fd6b5f644568,17.75, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+89,f5faf1f52ba7a61bdb46fd6b722cd8913002de6f415a7990b170fd6b5f644568,17.75, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+90,49b4ce71b6b20afb7b44027138e8a0a6cbabceeac954928b16be47f912b3bbf2,18.416666666666668, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"09,00"
+91,49b4ce71b6b20afb7b44027138e8a0a6cbabceeac954928b16be47f912b3bbf2,18.416666666666668, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+92,49b4ce71b6b20afb7b44027138e8a0a6cbabceeac954928b16be47f912b3bbf2,18.416666666666668, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"12,00"
+93,49b4ce71b6b20afb7b44027138e8a0a6cbabceeac954928b16be47f912b3bbf2,18.416666666666668, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+94,49b4ce71b6b20afb7b44027138e8a0a6cbabceeac954928b16be47f912b3bbf2,18.416666666666668, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+95,621b4727d071ec80d34c41ce33081ccf425c71f6a9441b2423e2612c36d928ee,17.416666666666668, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"15,00"
+96,621b4727d071ec80d34c41ce33081ccf425c71f6a9441b2423e2612c36d928ee,17.416666666666668, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+97,621b4727d071ec80d34c41ce33081ccf425c71f6a9441b2423e2612c36d928ee,17.416666666666668, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"04,75"
+98,621b4727d071ec80d34c41ce33081ccf425c71f6a9441b2423e2612c36d928ee,17.416666666666668, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+99,621b4727d071ec80d34c41ce33081ccf425c71f6a9441b2423e2612c36d928ee,17.416666666666668, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+100,0a58806653b783522bb901a7fa5345a0ca1ab0eb10fc1062a68a88c16808ec41,16.916666666666668, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"15,75"
+101,0a58806653b783522bb901a7fa5345a0ca1ab0eb10fc1062a68a88c16808ec41,16.916666666666668, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+102,0a58806653b783522bb901a7fa5345a0ca1ab0eb10fc1062a68a88c16808ec41,16.916666666666668, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"06,00"
+103,0a58806653b783522bb901a7fa5345a0ca1ab0eb10fc1062a68a88c16808ec41,16.916666666666668, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+104,0a58806653b783522bb901a7fa5345a0ca1ab0eb10fc1062a68a88c16808ec41,16.916666666666668, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+105,d13dbebf3902775b16804852786e57b1066a61e97f7f02e726c22a9b2b68474d,17.0, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"12,50"
+106,d13dbebf3902775b16804852786e57b1066a61e97f7f02e726c22a9b2b68474d,17.0, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+107,d13dbebf3902775b16804852786e57b1066a61e97f7f02e726c22a9b2b68474d,17.0, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"07,25"
+108,d13dbebf3902775b16804852786e57b1066a61e97f7f02e726c22a9b2b68474d,17.0, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+109,d13dbebf3902775b16804852786e57b1066a61e97f7f02e726c22a9b2b68474d,17.0, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+110,7a30d07c537b44dd18027f2e88425ccb5f1930d1e458b9df6425182c0aaee2a3,17.0, 2ème Année Bac Sciences Mathématiques A - Option Français,LANGUE ANGLAISE,National,Abs.
+111,7a30d07c537b44dd18027f2e88425ccb5f1930d1e458b9df6425182c0aaee2a3,17.0, 2ème Année Bac Sciences Mathématiques A - Option Français,MATHEMATIQUES,National,Abs.
+112,7a30d07c537b44dd18027f2e88425ccb5f1930d1e458b9df6425182c0aaee2a3,17.0, 2ème Année Bac Sciences Mathématiques A - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,Abs.
+113,7a30d07c537b44dd18027f2e88425ccb5f1930d1e458b9df6425182c0aaee2a3,17.0, 2ème Année Bac Sciences Mathématiques A - Option Français,PHYSIQUE CHIMIE,National,"10,00"
+114,7a30d07c537b44dd18027f2e88425ccb5f1930d1e458b9df6425182c0aaee2a3,17.0, 2ème Année Bac Sciences Mathématiques A - Option Français,PHILOSOPHIE,National,Abs.
+115,42d9ac9dbcc4bd6840034bd6270530b778189fcf166b84b5b89d168fbac894a7,17.5, 2ème Année Bac Sciences Mathématiques A - Option Français,LANGUE ANGLAISE,National,"14,00"
+116,42d9ac9dbcc4bd6840034bd6270530b778189fcf166b84b5b89d168fbac894a7,17.5, 2ème Année Bac Sciences Mathématiques A - Option Français,MATHEMATIQUES,National,"07,00"
+117,42d9ac9dbcc4bd6840034bd6270530b778189fcf166b84b5b89d168fbac894a7,17.5, 2ème Année Bac Sciences Mathématiques A - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"09,50"
+118,42d9ac9dbcc4bd6840034bd6270530b778189fcf166b84b5b89d168fbac894a7,17.5, 2ème Année Bac Sciences Mathématiques A - Option Français,PHYSIQUE CHIMIE,National,"05,50"
+119,42d9ac9dbcc4bd6840034bd6270530b778189fcf166b84b5b89d168fbac894a7,17.5, 2ème Année Bac Sciences Mathématiques A - Option Français,PHILOSOPHIE,National,"16,00"
+120,d49a41c0dedf0d8582ff3e06b62b8fdfefd9d3109d9c1effe165673ec19f1304,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,LANGUE ANGLAISE,National,"16,50"
+121,d49a41c0dedf0d8582ff3e06b62b8fdfefd9d3109d9c1effe165673ec19f1304,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,MATHEMATIQUES,National,"06,75"
+122,d49a41c0dedf0d8582ff3e06b62b8fdfefd9d3109d9c1effe165673ec19f1304,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"08,50"
+123,d49a41c0dedf0d8582ff3e06b62b8fdfefd9d3109d9c1effe165673ec19f1304,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,PHYSIQUE CHIMIE,National,"03,00"
+124,d49a41c0dedf0d8582ff3e06b62b8fdfefd9d3109d9c1effe165673ec19f1304,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,PHILOSOPHIE,National,"16,50"
+125,1103d6b5d44a858efe88c35ad30b4a2885a233756e1577eb2d3f04cbd7245886,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,LANGUE ANGLAISE,National,"14,25"
+126,1103d6b5d44a858efe88c35ad30b4a2885a233756e1577eb2d3f04cbd7245886,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,MATHEMATIQUES,National,"08,50"
+127,1103d6b5d44a858efe88c35ad30b4a2885a233756e1577eb2d3f04cbd7245886,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"11,00"
+128,1103d6b5d44a858efe88c35ad30b4a2885a233756e1577eb2d3f04cbd7245886,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,PHYSIQUE CHIMIE,National,"04,00"
+129,1103d6b5d44a858efe88c35ad30b4a2885a233756e1577eb2d3f04cbd7245886,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,PHILOSOPHIE,National,"16,00"
+130,fbe6f26f00021e47a71e622f6dd0e7bdddacaf0ff64f1b37323bb794f1fff17d,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,LANGUE ANGLAISE,National,"11,50"
+131,fbe6f26f00021e47a71e622f6dd0e7bdddacaf0ff64f1b37323bb794f1fff17d,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,MATHEMATIQUES,National,"11,25"
+132,fbe6f26f00021e47a71e622f6dd0e7bdddacaf0ff64f1b37323bb794f1fff17d,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"11,00"
+133,fbe6f26f00021e47a71e622f6dd0e7bdddacaf0ff64f1b37323bb794f1fff17d,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,PHYSIQUE CHIMIE,National,"05,00"
+134,fbe6f26f00021e47a71e622f6dd0e7bdddacaf0ff64f1b37323bb794f1fff17d,16.833333333333332, 2ème Année Bac Sciences Mathématiques A - Option Français,PHILOSOPHIE,National,"18,00"
+135,2d525e3f378124d38b8d1b49851fedf1f21ff31369417263cd54c2d1c6356bb4,16.916666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,LANGUE ANGLAISE,National,"13,00"
+136,2d525e3f378124d38b8d1b49851fedf1f21ff31369417263cd54c2d1c6356bb4,16.916666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,MATHEMATIQUES,National,"11,50"
+137,2d525e3f378124d38b8d1b49851fedf1f21ff31369417263cd54c2d1c6356bb4,16.916666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"14,00"
+138,2d525e3f378124d38b8d1b49851fedf1f21ff31369417263cd54c2d1c6356bb4,16.916666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,PHYSIQUE CHIMIE,National,"10,25"
+139,2d525e3f378124d38b8d1b49851fedf1f21ff31369417263cd54c2d1c6356bb4,16.916666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,PHILOSOPHIE,National,"15,00"
+140,ca02968947662cfa4a41e9914917a57d371182d9e193164efda21044e233e9b0,17.75, 2ème Année Bac Sciences Mathématiques A - Option Français,LANGUE ANGLAISE,National,"11,50"
+141,ca02968947662cfa4a41e9914917a57d371182d9e193164efda21044e233e9b0,17.75, 2ème Année Bac Sciences Mathématiques A - Option Français,MATHEMATIQUES,National,"08,00"
+142,ca02968947662cfa4a41e9914917a57d371182d9e193164efda21044e233e9b0,17.75, 2ème Année Bac Sciences Mathématiques A - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"13,00"
+143,ca02968947662cfa4a41e9914917a57d371182d9e193164efda21044e233e9b0,17.75, 2ème Année Bac Sciences Mathématiques A - Option Français,PHYSIQUE CHIMIE,National,"07,00"
+144,ca02968947662cfa4a41e9914917a57d371182d9e193164efda21044e233e9b0,17.75, 2ème Année Bac Sciences Mathématiques A - Option Français,PHILOSOPHIE,National,"10,00"
+145,326b29650c9c33820917598b30d24a246c06e8780369b4a123276f564f2eaaa5,17.25, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"18,00"
+146,326b29650c9c33820917598b30d24a246c06e8780369b4a123276f564f2eaaa5,17.25, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"14,50"
+147,326b29650c9c33820917598b30d24a246c06e8780369b4a123276f564f2eaaa5,17.25, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"19,50"
+148,326b29650c9c33820917598b30d24a246c06e8780369b4a123276f564f2eaaa5,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"19,00"
+149,326b29650c9c33820917598b30d24a246c06e8780369b4a123276f564f2eaaa5,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"16,00"
+150,e3b08d70bb276addeb9e9bf02879896619a78258bf266b1f3a91299b20049740,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"12,25"
+151,e3b08d70bb276addeb9e9bf02879896619a78258bf266b1f3a91299b20049740,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"13,75"
+152,e3b08d70bb276addeb9e9bf02879896619a78258bf266b1f3a91299b20049740,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"13,00"
+153,e3b08d70bb276addeb9e9bf02879896619a78258bf266b1f3a91299b20049740,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"15,25"
+154,e3b08d70bb276addeb9e9bf02879896619a78258bf266b1f3a91299b20049740,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"15,00"
+155,48c76bc479db5468e8613b336ed6263c8d65c59c4a85ab9043439b3ca724ba08,16.75, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"10,00"
+156,48c76bc479db5468e8613b336ed6263c8d65c59c4a85ab9043439b3ca724ba08,16.75, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"06,50"
+157,48c76bc479db5468e8613b336ed6263c8d65c59c4a85ab9043439b3ca724ba08,16.75, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"12,00"
+158,48c76bc479db5468e8613b336ed6263c8d65c59c4a85ab9043439b3ca724ba08,16.75, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"10,00"
+159,48c76bc479db5468e8613b336ed6263c8d65c59c4a85ab9043439b3ca724ba08,16.75, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"11,00"
+160,953fe1fa2d7dfb411e47b50ade920d37175cb2a960647ae757fb6bbf58fc4b70,17.25, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"16,00"
+161,953fe1fa2d7dfb411e47b50ade920d37175cb2a960647ae757fb6bbf58fc4b70,17.25, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"10,50"
+162,953fe1fa2d7dfb411e47b50ade920d37175cb2a960647ae757fb6bbf58fc4b70,17.25, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"14,00"
+163,953fe1fa2d7dfb411e47b50ade920d37175cb2a960647ae757fb6bbf58fc4b70,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"15,25"
+164,953fe1fa2d7dfb411e47b50ade920d37175cb2a960647ae757fb6bbf58fc4b70,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"13,00"
+165,fd4f4a4a4d4c904700e830985ab8b46dd92429903906ddb7ebc64a7c525ad316,17.0, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"13,25"
+166,fd4f4a4a4d4c904700e830985ab8b46dd92429903906ddb7ebc64a7c525ad316,17.0, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"07,50"
+167,fd4f4a4a4d4c904700e830985ab8b46dd92429903906ddb7ebc64a7c525ad316,17.0, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"13,00"
+168,fd4f4a4a4d4c904700e830985ab8b46dd92429903906ddb7ebc64a7c525ad316,17.0, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"11,00"
+169,fd4f4a4a4d4c904700e830985ab8b46dd92429903906ddb7ebc64a7c525ad316,17.0, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"11,00"
+170,2c303c5af04836578ed15472cb38da119b25ba2dc7c891a844d258da6bad2f44,17.0, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"09,50"
+171,2c303c5af04836578ed15472cb38da119b25ba2dc7c891a844d258da6bad2f44,17.0, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"13,00"
+172,2c303c5af04836578ed15472cb38da119b25ba2dc7c891a844d258da6bad2f44,17.0, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"13,00"
+173,2c303c5af04836578ed15472cb38da119b25ba2dc7c891a844d258da6bad2f44,17.0, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"13,00"
+174,2c303c5af04836578ed15472cb38da119b25ba2dc7c891a844d258da6bad2f44,17.0, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"11,00"
+175,eaf3c9ea0c1863cc1251ac36c0443fdca05a7455d404ef2760a3e2f861aa6630,17.25, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"15,25"
+176,eaf3c9ea0c1863cc1251ac36c0443fdca05a7455d404ef2760a3e2f861aa6630,17.25, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"14,25"
+177,eaf3c9ea0c1863cc1251ac36c0443fdca05a7455d404ef2760a3e2f861aa6630,17.25, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"16,00"
+178,eaf3c9ea0c1863cc1251ac36c0443fdca05a7455d404ef2760a3e2f861aa6630,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"15,25"
+179,eaf3c9ea0c1863cc1251ac36c0443fdca05a7455d404ef2760a3e2f861aa6630,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"15,00"
+180,2b755b671c8bda7d584bc6a92a8677c191d02ac2fd736cb1a5e621e67834e296,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"13,75"
+181,2b755b671c8bda7d584bc6a92a8677c191d02ac2fd736cb1a5e621e67834e296,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"11,50"
+182,2b755b671c8bda7d584bc6a92a8677c191d02ac2fd736cb1a5e621e67834e296,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"16,00"
+183,2b755b671c8bda7d584bc6a92a8677c191d02ac2fd736cb1a5e621e67834e296,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"13,00"
+184,2b755b671c8bda7d584bc6a92a8677c191d02ac2fd736cb1a5e621e67834e296,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"14,00"
+185,aee0425fdc3a3909786f53cac99fa8504f09098e758eefe62a851ecda6b5ca0e,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"17,25"
+186,aee0425fdc3a3909786f53cac99fa8504f09098e758eefe62a851ecda6b5ca0e,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"12,75"
+187,aee0425fdc3a3909786f53cac99fa8504f09098e758eefe62a851ecda6b5ca0e,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"15,00"
+188,aee0425fdc3a3909786f53cac99fa8504f09098e758eefe62a851ecda6b5ca0e,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"12,50"
+189,aee0425fdc3a3909786f53cac99fa8504f09098e758eefe62a851ecda6b5ca0e,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"11,00"
+190,404912962244a4be83172573832c9dcc0df022f8a6c5988cb061205689c4ee44,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"06,50"
+191,404912962244a4be83172573832c9dcc0df022f8a6c5988cb061205689c4ee44,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"03,00"
+192,404912962244a4be83172573832c9dcc0df022f8a6c5988cb061205689c4ee44,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"10,50"
+193,404912962244a4be83172573832c9dcc0df022f8a6c5988cb061205689c4ee44,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"07,00"
+194,404912962244a4be83172573832c9dcc0df022f8a6c5988cb061205689c4ee44,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"10,00"
+195,2b69642b9d7dcb724b592ae7993dc46e1de58ef8ee062f3339545f5f3a6b2040,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"12,25"
+196,2b69642b9d7dcb724b592ae7993dc46e1de58ef8ee062f3339545f5f3a6b2040,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"10,00"
+197,2b69642b9d7dcb724b592ae7993dc46e1de58ef8ee062f3339545f5f3a6b2040,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"17,00"
+198,2b69642b9d7dcb724b592ae7993dc46e1de58ef8ee062f3339545f5f3a6b2040,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"12,50"
+199,2b69642b9d7dcb724b592ae7993dc46e1de58ef8ee062f3339545f5f3a6b2040,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"10,00"
+200,8ce7c227c91b744f0d7764aa9e643492714fdacd77ca432b37c36593de6b5281,18.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"15,25"
+201,8ce7c227c91b744f0d7764aa9e643492714fdacd77ca432b37c36593de6b5281,18.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"16,25"
+202,8ce7c227c91b744f0d7764aa9e643492714fdacd77ca432b37c36593de6b5281,18.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"13,25"
+203,8ce7c227c91b744f0d7764aa9e643492714fdacd77ca432b37c36593de6b5281,18.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"16,50"
+204,8ce7c227c91b744f0d7764aa9e643492714fdacd77ca432b37c36593de6b5281,18.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"16,00"
+205,957b80a5460a2f81fec7fe9656ab0a3cd967a807d4c5aef42282621d53933646,17.25, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"17,00"
+206,957b80a5460a2f81fec7fe9656ab0a3cd967a807d4c5aef42282621d53933646,17.25, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"13,00"
+207,957b80a5460a2f81fec7fe9656ab0a3cd967a807d4c5aef42282621d53933646,17.25, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"12,00"
+208,957b80a5460a2f81fec7fe9656ab0a3cd967a807d4c5aef42282621d53933646,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"13,50"
+209,957b80a5460a2f81fec7fe9656ab0a3cd967a807d4c5aef42282621d53933646,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"15,00"
+210,53f5878e01e257b3e44da2c7e0a6f204cd442ef1ac037773ff3fc339a90fdc03,17.25, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"16,75"
+211,53f5878e01e257b3e44da2c7e0a6f204cd442ef1ac037773ff3fc339a90fdc03,17.25, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"12,50"
+212,53f5878e01e257b3e44da2c7e0a6f204cd442ef1ac037773ff3fc339a90fdc03,17.25, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"17,00"
+213,53f5878e01e257b3e44da2c7e0a6f204cd442ef1ac037773ff3fc339a90fdc03,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"15,25"
+214,53f5878e01e257b3e44da2c7e0a6f204cd442ef1ac037773ff3fc339a90fdc03,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"15,00"
+215,d5a02888a7535414798b87f4954e6be209ac9a9e56f4af011cf436c9be10598d,17.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"09,50"
+216,d5a02888a7535414798b87f4954e6be209ac9a9e56f4af011cf436c9be10598d,17.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"06,00"
+217,d5a02888a7535414798b87f4954e6be209ac9a9e56f4af011cf436c9be10598d,17.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"17,00"
+218,d5a02888a7535414798b87f4954e6be209ac9a9e56f4af011cf436c9be10598d,17.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"06,00"
+219,d5a02888a7535414798b87f4954e6be209ac9a9e56f4af011cf436c9be10598d,17.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"10,00"
+220,7d13783a27c8d3898e7504371d053aaf05486b1be6f828860b400084979b8e30,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"13,50"
+221,7d13783a27c8d3898e7504371d053aaf05486b1be6f828860b400084979b8e30,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"03,75"
+222,7d13783a27c8d3898e7504371d053aaf05486b1be6f828860b400084979b8e30,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"09,50"
+223,7d13783a27c8d3898e7504371d053aaf05486b1be6f828860b400084979b8e30,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"07,75"
+224,7d13783a27c8d3898e7504371d053aaf05486b1be6f828860b400084979b8e30,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"11,00"
+225,256a5506d312674984083a5b0f8022faea9912310cfb4daf140721ca70b94474,17.25, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"18,25"
+226,256a5506d312674984083a5b0f8022faea9912310cfb4daf140721ca70b94474,17.25, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"14,50"
+227,256a5506d312674984083a5b0f8022faea9912310cfb4daf140721ca70b94474,17.25, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"18,75"
+228,256a5506d312674984083a5b0f8022faea9912310cfb4daf140721ca70b94474,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"16,75"
+229,256a5506d312674984083a5b0f8022faea9912310cfb4daf140721ca70b94474,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"15,00"
+230,cc175532a865bd6946a2992a998dd9461c925499665f35f0f5a57e9918bb8cf3,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"17,00"
+231,cc175532a865bd6946a2992a998dd9461c925499665f35f0f5a57e9918bb8cf3,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"15,00"
+232,cc175532a865bd6946a2992a998dd9461c925499665f35f0f5a57e9918bb8cf3,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"18,50"
+233,cc175532a865bd6946a2992a998dd9461c925499665f35f0f5a57e9918bb8cf3,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"17,00"
+234,cc175532a865bd6946a2992a998dd9461c925499665f35f0f5a57e9918bb8cf3,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"14,00"
+235,dc1432f65480871b99784bbe4786f5e8d650c98244fd79dd8ad18b3c86fed9fc,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"17,00"
+236,dc1432f65480871b99784bbe4786f5e8d650c98244fd79dd8ad18b3c86fed9fc,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"12,00"
+237,dc1432f65480871b99784bbe4786f5e8d650c98244fd79dd8ad18b3c86fed9fc,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"18,25"
+238,dc1432f65480871b99784bbe4786f5e8d650c98244fd79dd8ad18b3c86fed9fc,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"16,75"
+239,dc1432f65480871b99784bbe4786f5e8d650c98244fd79dd8ad18b3c86fed9fc,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"15,00"
+240,8ebb255b179180a109e5a2a2db00e1d5541bd67d3eb94f67c628434b7417e9af,16.833333333333332, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"15,00"
+241,8ebb255b179180a109e5a2a2db00e1d5541bd67d3eb94f67c628434b7417e9af,16.833333333333332, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+242,8ebb255b179180a109e5a2a2db00e1d5541bd67d3eb94f67c628434b7417e9af,16.833333333333332, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"04,00"
+243,8ebb255b179180a109e5a2a2db00e1d5541bd67d3eb94f67c628434b7417e9af,16.833333333333332, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+244,8ebb255b179180a109e5a2a2db00e1d5541bd67d3eb94f67c628434b7417e9af,16.833333333333332, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+245,6ce0e86cfaae6910fca4ec552ee4922e431af950403307f009c724d0bef5bead,16.833333333333332, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"14,50"
+246,6ce0e86cfaae6910fca4ec552ee4922e431af950403307f009c724d0bef5bead,16.833333333333332, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+247,6ce0e86cfaae6910fca4ec552ee4922e431af950403307f009c724d0bef5bead,16.833333333333332, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"08,25"
+248,6ce0e86cfaae6910fca4ec552ee4922e431af950403307f009c724d0bef5bead,16.833333333333332, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+249,6ce0e86cfaae6910fca4ec552ee4922e431af950403307f009c724d0bef5bead,16.833333333333332, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+250,a73413caeb565cd907a8043f6adfc1c925550752e4975d86955bef4da7ad42c7,17.416666666666668, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"09,50"
+251,a73413caeb565cd907a8043f6adfc1c925550752e4975d86955bef4da7ad42c7,17.416666666666668, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+252,a73413caeb565cd907a8043f6adfc1c925550752e4975d86955bef4da7ad42c7,17.416666666666668, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"04,75"
+253,a73413caeb565cd907a8043f6adfc1c925550752e4975d86955bef4da7ad42c7,17.416666666666668, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+254,a73413caeb565cd907a8043f6adfc1c925550752e4975d86955bef4da7ad42c7,17.416666666666668, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+255,a270a122d0e02f0f724677e5a5a9184ea585d10888a18fc418a76ec9b7dcdb6b,17.666666666666668, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"20,00"
+256,a270a122d0e02f0f724677e5a5a9184ea585d10888a18fc418a76ec9b7dcdb6b,17.666666666666668, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+257,a270a122d0e02f0f724677e5a5a9184ea585d10888a18fc418a76ec9b7dcdb6b,17.666666666666668, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"15,00"
+258,a270a122d0e02f0f724677e5a5a9184ea585d10888a18fc418a76ec9b7dcdb6b,17.666666666666668, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+259,a270a122d0e02f0f724677e5a5a9184ea585d10888a18fc418a76ec9b7dcdb6b,17.666666666666668, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+260,f7cb7340f85fa860183e33cd854f3a9fb6511e9f4e36a0f4565c4a254e5ece0d,17.666666666666668, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"13,00"
+261,f7cb7340f85fa860183e33cd854f3a9fb6511e9f4e36a0f4565c4a254e5ece0d,17.666666666666668, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+262,f7cb7340f85fa860183e33cd854f3a9fb6511e9f4e36a0f4565c4a254e5ece0d,17.666666666666668, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"12,25"
+263,f7cb7340f85fa860183e33cd854f3a9fb6511e9f4e36a0f4565c4a254e5ece0d,17.666666666666668, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+264,f7cb7340f85fa860183e33cd854f3a9fb6511e9f4e36a0f4565c4a254e5ece0d,17.666666666666668, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+265,c6b4b32bfc85f5fd215e3d2bfc47a4c7fd3558a07b57b261e8118771c359d844,17.916666666666668, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"19,50"
+266,c6b4b32bfc85f5fd215e3d2bfc47a4c7fd3558a07b57b261e8118771c359d844,17.916666666666668, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+267,c6b4b32bfc85f5fd215e3d2bfc47a4c7fd3558a07b57b261e8118771c359d844,17.916666666666668, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"15,75"
+268,c6b4b32bfc85f5fd215e3d2bfc47a4c7fd3558a07b57b261e8118771c359d844,17.916666666666668, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+269,c6b4b32bfc85f5fd215e3d2bfc47a4c7fd3558a07b57b261e8118771c359d844,17.916666666666668, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+270,6907631589c52a642555338017e319169c006373ca000c4b63ee5b0939f63b58,17.083333333333332, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"07,50"
+271,6907631589c52a642555338017e319169c006373ca000c4b63ee5b0939f63b58,17.083333333333332, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+272,6907631589c52a642555338017e319169c006373ca000c4b63ee5b0939f63b58,17.083333333333332, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"02,25"
+273,6907631589c52a642555338017e319169c006373ca000c4b63ee5b0939f63b58,17.083333333333332, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+274,6907631589c52a642555338017e319169c006373ca000c4b63ee5b0939f63b58,17.083333333333332, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+275,f3f21e66613184f5dc4b69167f570093e624a2d0f7bdbb8d0d4bcf54e0eacb9e,17.166666666666668, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"15,00"
+276,f3f21e66613184f5dc4b69167f570093e624a2d0f7bdbb8d0d4bcf54e0eacb9e,17.166666666666668, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+277,f3f21e66613184f5dc4b69167f570093e624a2d0f7bdbb8d0d4bcf54e0eacb9e,17.166666666666668, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"02,75"
+278,f3f21e66613184f5dc4b69167f570093e624a2d0f7bdbb8d0d4bcf54e0eacb9e,17.166666666666668, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+279,f3f21e66613184f5dc4b69167f570093e624a2d0f7bdbb8d0d4bcf54e0eacb9e,17.166666666666668, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+280,aace3fd2ff98c5613580c194af8acf9916c4b2428264b0b04c00ff3c121c5b02,18.25, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"12,00"
+281,aace3fd2ff98c5613580c194af8acf9916c4b2428264b0b04c00ff3c121c5b02,18.25, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+282,aace3fd2ff98c5613580c194af8acf9916c4b2428264b0b04c00ff3c121c5b02,18.25, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"09,00"
+283,aace3fd2ff98c5613580c194af8acf9916c4b2428264b0b04c00ff3c121c5b02,18.25, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+284,aace3fd2ff98c5613580c194af8acf9916c4b2428264b0b04c00ff3c121c5b02,18.25, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+285,04ac206a9a4ad4bf46d275e2362b4366906d83efb80a3f91f9909cc98c24f21a,17.5, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"12,25"
+286,04ac206a9a4ad4bf46d275e2362b4366906d83efb80a3f91f9909cc98c24f21a,17.5, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+287,04ac206a9a4ad4bf46d275e2362b4366906d83efb80a3f91f9909cc98c24f21a,17.5, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"03,00"
+288,04ac206a9a4ad4bf46d275e2362b4366906d83efb80a3f91f9909cc98c24f21a,17.5, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+289,04ac206a9a4ad4bf46d275e2362b4366906d83efb80a3f91f9909cc98c24f21a,17.5, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+290,58c96362b93470b16b92d5cd38bdd7f5d290bd29b7a7805e08fceeafd9d09c4f,17.416666666666668, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"15,50"
+291,58c96362b93470b16b92d5cd38bdd7f5d290bd29b7a7805e08fceeafd9d09c4f,17.416666666666668, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+292,58c96362b93470b16b92d5cd38bdd7f5d290bd29b7a7805e08fceeafd9d09c4f,17.416666666666668, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"04,00"
+293,58c96362b93470b16b92d5cd38bdd7f5d290bd29b7a7805e08fceeafd9d09c4f,17.416666666666668, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+294,58c96362b93470b16b92d5cd38bdd7f5d290bd29b7a7805e08fceeafd9d09c4f,17.416666666666668, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+295,be15f66240c5f0c7c4fe90172dfd90972a612013e3728de1446ce502312f2129,17.75, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"14,00"
+296,be15f66240c5f0c7c4fe90172dfd90972a612013e3728de1446ce502312f2129,17.75, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+297,be15f66240c5f0c7c4fe90172dfd90972a612013e3728de1446ce502312f2129,17.75, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"04,25"
+298,be15f66240c5f0c7c4fe90172dfd90972a612013e3728de1446ce502312f2129,17.75, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+299,be15f66240c5f0c7c4fe90172dfd90972a612013e3728de1446ce502312f2129,17.75, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+300,163886fcf7a9b058834af1f48de697cc1c1a97f246398069b72e94fc256e7268,17.25, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"12,00"
+301,163886fcf7a9b058834af1f48de697cc1c1a97f246398069b72e94fc256e7268,17.25, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+302,163886fcf7a9b058834af1f48de697cc1c1a97f246398069b72e94fc256e7268,17.25, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"01,00"
+303,163886fcf7a9b058834af1f48de697cc1c1a97f246398069b72e94fc256e7268,17.25, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+304,163886fcf7a9b058834af1f48de697cc1c1a97f246398069b72e94fc256e7268,17.25, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+305,8251904b96a5380974af429732c17b5172af47ab19570875c0d94a15d4204b49,17.166666666666668, 2ème Année Bac Sciences Economiques,LANGUE ANGLAISE,National,"11,50"
+306,8251904b96a5380974af429732c17b5172af47ab19570875c0d94a15d4204b49,17.166666666666668, 2ème Année Bac Sciences Economiques,HISTOIRE GEOGRAPHIE,National,****
+307,8251904b96a5380974af429732c17b5172af47ab19570875c0d94a15d4204b49,17.166666666666668, 2ème Année Bac Sciences Economiques,MATHEMATIQUES,National,"02,75"
+308,8251904b96a5380974af429732c17b5172af47ab19570875c0d94a15d4204b49,17.166666666666668, 2ème Année Bac Sciences Economiques,INSTRUCTION ISLAMIQUE,National,****
+309,8251904b96a5380974af429732c17b5172af47ab19570875c0d94a15d4204b49,17.166666666666668, 2ème Année Bac Sciences Economiques,ASSIDUITE ET CONDUITE,National,****
+310,7a30d07c537b44dd18027f2e88425ccb5f1930d1e458b9df6425182c0aaee2a3,18.0, 2ème Année Bac Sciences Mathématiques A - Option Français,LANGUE ANGLAISE,National,"12,25"
+311,7a30d07c537b44dd18027f2e88425ccb5f1930d1e458b9df6425182c0aaee2a3,18.0, 2ème Année Bac Sciences Mathématiques A - Option Français,MATHEMATIQUES,National,"16,00"
+312,7a30d07c537b44dd18027f2e88425ccb5f1930d1e458b9df6425182c0aaee2a3,18.0, 2ème Année Bac Sciences Mathématiques A - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"12,25"
+313,7a30d07c537b44dd18027f2e88425ccb5f1930d1e458b9df6425182c0aaee2a3,18.0, 2ème Année Bac Sciences Mathématiques A - Option Français,PHYSIQUE CHIMIE,National,"12,50"
+314,7a30d07c537b44dd18027f2e88425ccb5f1930d1e458b9df6425182c0aaee2a3,18.0, 2ème Année Bac Sciences Mathématiques A - Option Français,PHILOSOPHIE,National,"14,00"
+315,a43b19afc003b893bba8339fbdbe85a87bcb6d84f6f0bff5952295e6bf77132f,18.0, 2ème Année Bac Sciences Mathématiques A - Option Français,LANGUE ANGLAISE,National,"07,50"
+316,a43b19afc003b893bba8339fbdbe85a87bcb6d84f6f0bff5952295e6bf77132f,18.0, 2ème Année Bac Sciences Mathématiques A - Option Français,MATHEMATIQUES,National,"06,50"
+317,a43b19afc003b893bba8339fbdbe85a87bcb6d84f6f0bff5952295e6bf77132f,18.0, 2ème Année Bac Sciences Mathématiques A - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"06,00"
+318,a43b19afc003b893bba8339fbdbe85a87bcb6d84f6f0bff5952295e6bf77132f,18.0, 2ème Année Bac Sciences Mathématiques A - Option Français,PHYSIQUE CHIMIE,National,"04,50"
+319,a43b19afc003b893bba8339fbdbe85a87bcb6d84f6f0bff5952295e6bf77132f,18.0, 2ème Année Bac Sciences Mathématiques A - Option Français,PHILOSOPHIE,National,"10,00"
+320,0b254634ea6c158cccbb162253677b4911b116b5e91e9ba29b43f95f86837cf6,17.416666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,LANGUE ANGLAISE,National,"19,00"
+321,0b254634ea6c158cccbb162253677b4911b116b5e91e9ba29b43f95f86837cf6,17.416666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,MATHEMATIQUES,National,"12,00"
+322,0b254634ea6c158cccbb162253677b4911b116b5e91e9ba29b43f95f86837cf6,17.416666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"15,00"
+323,0b254634ea6c158cccbb162253677b4911b116b5e91e9ba29b43f95f86837cf6,17.416666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,PHYSIQUE CHIMIE,National,"10,50"
+324,0b254634ea6c158cccbb162253677b4911b116b5e91e9ba29b43f95f86837cf6,17.416666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,PHILOSOPHIE,National,"14,50"
+325,47827efda0a0369b0e16ddf8c5b7d2d036c2c4e3cf6b3b4b818652c3b729ce4f,17.0, 2ème Année Bac Sciences Mathématiques A - Option Français,LANGUE ANGLAISE,National,"16,50"
+326,47827efda0a0369b0e16ddf8c5b7d2d036c2c4e3cf6b3b4b818652c3b729ce4f,17.0, 2ème Année Bac Sciences Mathématiques A - Option Français,MATHEMATIQUES,National,"12,25"
+327,47827efda0a0369b0e16ddf8c5b7d2d036c2c4e3cf6b3b4b818652c3b729ce4f,17.0, 2ème Année Bac Sciences Mathématiques A - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"10,50"
+328,47827efda0a0369b0e16ddf8c5b7d2d036c2c4e3cf6b3b4b818652c3b729ce4f,17.0, 2ème Année Bac Sciences Mathématiques A - Option Français,PHYSIQUE CHIMIE,National,"04,75"
+329,47827efda0a0369b0e16ddf8c5b7d2d036c2c4e3cf6b3b4b818652c3b729ce4f,17.0, 2ème Année Bac Sciences Mathématiques A - Option Français,PHILOSOPHIE,National,"14,00"
+330,2213a1e2dae007bd3f2480789ef8ecda266f2feac8cec290b6b95d5e1299b7ff,16.916666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,LANGUE ANGLAISE,National,"19,50"
+331,2213a1e2dae007bd3f2480789ef8ecda266f2feac8cec290b6b95d5e1299b7ff,16.916666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,MATHEMATIQUES,National,"15,75"
+332,2213a1e2dae007bd3f2480789ef8ecda266f2feac8cec290b6b95d5e1299b7ff,16.916666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"17,00"
+333,2213a1e2dae007bd3f2480789ef8ecda266f2feac8cec290b6b95d5e1299b7ff,16.916666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,PHYSIQUE CHIMIE,National,"14,25"
+334,2213a1e2dae007bd3f2480789ef8ecda266f2feac8cec290b6b95d5e1299b7ff,16.916666666666668, 2ème Année Bac Sciences Mathématiques A - Option Français,PHILOSOPHIE,National,"14,50"
+335,afca275401f0c9d60bb9932ac72e7396f6ae1db97e78feaa5d7848c0ffdd093c,17.5, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"13,00"
+336,afca275401f0c9d60bb9932ac72e7396f6ae1db97e78feaa5d7848c0ffdd093c,17.5, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"03,00"
+337,afca275401f0c9d60bb9932ac72e7396f6ae1db97e78feaa5d7848c0ffdd093c,17.5, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"10,50"
+338,afca275401f0c9d60bb9932ac72e7396f6ae1db97e78feaa5d7848c0ffdd093c,17.5, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"10,00"
+339,afca275401f0c9d60bb9932ac72e7396f6ae1db97e78feaa5d7848c0ffdd093c,17.5, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"09,00"
+340,5b9194777e71e52f391e07a0b97c9d5c3450f742db87e3b6cee53113de81b32b,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"12,50"
+341,5b9194777e71e52f391e07a0b97c9d5c3450f742db87e3b6cee53113de81b32b,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"06,50"
+342,5b9194777e71e52f391e07a0b97c9d5c3450f742db87e3b6cee53113de81b32b,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"13,50"
+343,5b9194777e71e52f391e07a0b97c9d5c3450f742db87e3b6cee53113de81b32b,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"15,25"
+344,5b9194777e71e52f391e07a0b97c9d5c3450f742db87e3b6cee53113de81b32b,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"13,00"
+345,3922fd62958fb6b556627576b423ee1d971b86dc6c1a3cce1a47bd2a619d751b,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"16,00"
+346,3922fd62958fb6b556627576b423ee1d971b86dc6c1a3cce1a47bd2a619d751b,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"11,00"
+347,3922fd62958fb6b556627576b423ee1d971b86dc6c1a3cce1a47bd2a619d751b,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"14,75"
+348,3922fd62958fb6b556627576b423ee1d971b86dc6c1a3cce1a47bd2a619d751b,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"15,25"
+349,3922fd62958fb6b556627576b423ee1d971b86dc6c1a3cce1a47bd2a619d751b,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"04,00"
+350,6b94aa3c6bd7f069f230364325f41e80d0b3c4b0a782664aeec37aaaa8775680,17.25, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"19,00"
+351,6b94aa3c6bd7f069f230364325f41e80d0b3c4b0a782664aeec37aaaa8775680,17.25, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"15,75"
+352,6b94aa3c6bd7f069f230364325f41e80d0b3c4b0a782664aeec37aaaa8775680,17.25, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"19,00"
+353,6b94aa3c6bd7f069f230364325f41e80d0b3c4b0a782664aeec37aaaa8775680,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"16,50"
+354,6b94aa3c6bd7f069f230364325f41e80d0b3c4b0a782664aeec37aaaa8775680,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"12,50"
+355,f73f30fcc3055627143fee608d3467bc4e33be92c251c3758a89897e09011a3a,17.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"19,50"
+356,f73f30fcc3055627143fee608d3467bc4e33be92c251c3758a89897e09011a3a,17.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"13,50"
+357,f73f30fcc3055627143fee608d3467bc4e33be92c251c3758a89897e09011a3a,17.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"18,75"
+358,f73f30fcc3055627143fee608d3467bc4e33be92c251c3758a89897e09011a3a,17.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"16,25"
+359,f73f30fcc3055627143fee608d3467bc4e33be92c251c3758a89897e09011a3a,17.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"14,50"
+360,933edd97304f0143213393342c6e74b3f2ebd0e93fba77e726ddea65820371cf,17.416666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"15,00"
+361,933edd97304f0143213393342c6e74b3f2ebd0e93fba77e726ddea65820371cf,17.416666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"06,50"
+362,933edd97304f0143213393342c6e74b3f2ebd0e93fba77e726ddea65820371cf,17.416666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"12,50"
+363,933edd97304f0143213393342c6e74b3f2ebd0e93fba77e726ddea65820371cf,17.416666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"14,50"
+364,933edd97304f0143213393342c6e74b3f2ebd0e93fba77e726ddea65820371cf,17.416666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"16,00"
+365,8bcc598146ed403c1094a7a1fb0b462fe5298bb9f0a3d2c561aad2ceb7ec3622,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"14,75"
+366,8bcc598146ed403c1094a7a1fb0b462fe5298bb9f0a3d2c561aad2ceb7ec3622,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"09,50"
+367,8bcc598146ed403c1094a7a1fb0b462fe5298bb9f0a3d2c561aad2ceb7ec3622,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"13,00"
+368,8bcc598146ed403c1094a7a1fb0b462fe5298bb9f0a3d2c561aad2ceb7ec3622,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"15,50"
+369,8bcc598146ed403c1094a7a1fb0b462fe5298bb9f0a3d2c561aad2ceb7ec3622,17.083333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"18,00"
+370,52b082f052669ae78dff4b0997c565ea95c0b11cee5f8e4cfd223c6d60695637,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"15,00"
+371,52b082f052669ae78dff4b0997c565ea95c0b11cee5f8e4cfd223c6d60695637,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"04,75"
+372,52b082f052669ae78dff4b0997c565ea95c0b11cee5f8e4cfd223c6d60695637,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"06,50"
+373,52b082f052669ae78dff4b0997c565ea95c0b11cee5f8e4cfd223c6d60695637,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"06,25"
+374,52b082f052669ae78dff4b0997c565ea95c0b11cee5f8e4cfd223c6d60695637,17.583333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"10,00"
+375,d4d6d8cfb035f5283e54ba00253b79e3d47d176ff441d61bbf75e31e83b15d2c,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"12,50"
+376,d4d6d8cfb035f5283e54ba00253b79e3d47d176ff441d61bbf75e31e83b15d2c,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"03,50"
+377,d4d6d8cfb035f5283e54ba00253b79e3d47d176ff441d61bbf75e31e83b15d2c,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"11,00"
+378,d4d6d8cfb035f5283e54ba00253b79e3d47d176ff441d61bbf75e31e83b15d2c,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"11,50"
+379,d4d6d8cfb035f5283e54ba00253b79e3d47d176ff441d61bbf75e31e83b15d2c,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"13,00"
+380,65c15f14c936f94d95dfcec284b5b06d393754aa708cdb15430cad323f1eaccf,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"18,50"
+381,65c15f14c936f94d95dfcec284b5b06d393754aa708cdb15430cad323f1eaccf,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"10,50"
+382,65c15f14c936f94d95dfcec284b5b06d393754aa708cdb15430cad323f1eaccf,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"14,00"
+383,65c15f14c936f94d95dfcec284b5b06d393754aa708cdb15430cad323f1eaccf,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"12,00"
+384,65c15f14c936f94d95dfcec284b5b06d393754aa708cdb15430cad323f1eaccf,16.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"15,50"
+385,2d312442579b29b19dcfff46da0aa61b3aadd47427f71698affe8f5b5e542f78,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"19,00"
+386,2d312442579b29b19dcfff46da0aa61b3aadd47427f71698affe8f5b5e542f78,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"12,50"
+387,2d312442579b29b19dcfff46da0aa61b3aadd47427f71698affe8f5b5e542f78,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"17,50"
+388,2d312442579b29b19dcfff46da0aa61b3aadd47427f71698affe8f5b5e542f78,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"15,00"
+389,2d312442579b29b19dcfff46da0aa61b3aadd47427f71698affe8f5b5e542f78,16.833333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"14,00"
+390,63b4ef71216348021020bffe46c46592c5c18fce0a8d4623fa5825beb019a923,18.0, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"18,00"
+391,63b4ef71216348021020bffe46c46592c5c18fce0a8d4623fa5825beb019a923,18.0, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"13,25"
+392,63b4ef71216348021020bffe46c46592c5c18fce0a8d4623fa5825beb019a923,18.0, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"17,50"
+393,63b4ef71216348021020bffe46c46592c5c18fce0a8d4623fa5825beb019a923,18.0, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"14,75"
+394,63b4ef71216348021020bffe46c46592c5c18fce0a8d4623fa5825beb019a923,18.0, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"13,50"
+395,6a1bf533205b2e90c548e3472367f61ca8937d25ae7e676cc117201cfaa56077,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"14,50"
+396,6a1bf533205b2e90c548e3472367f61ca8937d25ae7e676cc117201cfaa56077,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"06,25"
+397,6a1bf533205b2e90c548e3472367f61ca8937d25ae7e676cc117201cfaa56077,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"13,50"
+398,6a1bf533205b2e90c548e3472367f61ca8937d25ae7e676cc117201cfaa56077,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"11,75"
+399,6a1bf533205b2e90c548e3472367f61ca8937d25ae7e676cc117201cfaa56077,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"11,00"
+400,0d67c19090546ed1173b7fcd162ba41002f3a3a1c46db6ef5dd32237b754a0f0,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"17,50"
+401,0d67c19090546ed1173b7fcd162ba41002f3a3a1c46db6ef5dd32237b754a0f0,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"10,75"
+402,0d67c19090546ed1173b7fcd162ba41002f3a3a1c46db6ef5dd32237b754a0f0,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"15,50"
+403,0d67c19090546ed1173b7fcd162ba41002f3a3a1c46db6ef5dd32237b754a0f0,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"17,75"
+404,0d67c19090546ed1173b7fcd162ba41002f3a3a1c46db6ef5dd32237b754a0f0,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"15,50"
+405,f52208c665747924e2817abaa52b0622d2098d13f217ea5d8852c9ae4b5216d1,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"18,00"
+406,f52208c665747924e2817abaa52b0622d2098d13f217ea5d8852c9ae4b5216d1,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"09,00"
+407,f52208c665747924e2817abaa52b0622d2098d13f217ea5d8852c9ae4b5216d1,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"15,50"
+408,f52208c665747924e2817abaa52b0622d2098d13f217ea5d8852c9ae4b5216d1,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"15,50"
+409,f52208c665747924e2817abaa52b0622d2098d13f217ea5d8852c9ae4b5216d1,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"16,50"
+410,f822f31ba77fc950337bb6360fa7a7e7fc6f7dd0d558a06bf953fa83b936ee12,17.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"15,00"
+411,f822f31ba77fc950337bb6360fa7a7e7fc6f7dd0d558a06bf953fa83b936ee12,17.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"05,00"
+412,f822f31ba77fc950337bb6360fa7a7e7fc6f7dd0d558a06bf953fa83b936ee12,17.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"12,00"
+413,f822f31ba77fc950337bb6360fa7a7e7fc6f7dd0d558a06bf953fa83b936ee12,17.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"11,25"
+414,f822f31ba77fc950337bb6360fa7a7e7fc6f7dd0d558a06bf953fa83b936ee12,17.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"13,00"
+415,120f3339b7900418440d08a95fec742ec2ff59594162f8a2e7705e3875c63ea9,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"13,00"
+416,120f3339b7900418440d08a95fec742ec2ff59594162f8a2e7705e3875c63ea9,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"04,25"
+417,120f3339b7900418440d08a95fec742ec2ff59594162f8a2e7705e3875c63ea9,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"10,75"
+418,120f3339b7900418440d08a95fec742ec2ff59594162f8a2e7705e3875c63ea9,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"09,75"
+419,120f3339b7900418440d08a95fec742ec2ff59594162f8a2e7705e3875c63ea9,17.333333333333332, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"14,50"
+420,ae70b25f531e20e0f2fbce054997e32957492d9581c8495fe1f7a8f578137d1d,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"06,75"
+421,ae70b25f531e20e0f2fbce054997e32957492d9581c8495fe1f7a8f578137d1d,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"02,50"
+422,ae70b25f531e20e0f2fbce054997e32957492d9581c8495fe1f7a8f578137d1d,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"11,25"
+423,ae70b25f531e20e0f2fbce054997e32957492d9581c8495fe1f7a8f578137d1d,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"10,00"
+424,ae70b25f531e20e0f2fbce054997e32957492d9581c8495fe1f7a8f578137d1d,17.166666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"16,00"
+425,f67ad2393ef34748611d919f31c5945ab6b6d1b6aef1ab97bf60805e4e3d9578,16.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"17,00"
+426,f67ad2393ef34748611d919f31c5945ab6b6d1b6aef1ab97bf60805e4e3d9578,16.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"09,75"
+427,f67ad2393ef34748611d919f31c5945ab6b6d1b6aef1ab97bf60805e4e3d9578,16.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"14,25"
+428,f67ad2393ef34748611d919f31c5945ab6b6d1b6aef1ab97bf60805e4e3d9578,16.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"14,50"
+429,f67ad2393ef34748611d919f31c5945ab6b6d1b6aef1ab97bf60805e4e3d9578,16.666666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"15,00"
+430,a2575a9a6515f730a967ad95bfea56452ffdd984233fe0311a3eec54fa05740f,17.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"18,50"
+431,a2575a9a6515f730a967ad95bfea56452ffdd984233fe0311a3eec54fa05740f,17.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"15,75"
+432,a2575a9a6515f730a967ad95bfea56452ffdd984233fe0311a3eec54fa05740f,17.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"16,50"
+433,a2575a9a6515f730a967ad95bfea56452ffdd984233fe0311a3eec54fa05740f,17.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"19,50"
+434,a2575a9a6515f730a967ad95bfea56452ffdd984233fe0311a3eec54fa05740f,17.916666666666668, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"15,00"
+435,814d6bddcb39a963cdd15ae120d65fda111212a5df02911237f667388a01d368,17.25, 2ème Année Bac Sciences Physiques - Option Français,LANGUE ANGLAISE,National,"09,50"
+436,814d6bddcb39a963cdd15ae120d65fda111212a5df02911237f667388a01d368,17.25, 2ème Année Bac Sciences Physiques - Option Français,MATHEMATIQUES,National,"03,50"
+437,814d6bddcb39a963cdd15ae120d65fda111212a5df02911237f667388a01d368,17.25, 2ème Année Bac Sciences Physiques - Option Français,"SC. DE LA VIE ET DE LA
+TERRE",National,"07,50"
+438,814d6bddcb39a963cdd15ae120d65fda111212a5df02911237f667388a01d368,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHYSIQUE CHIMIE,National,"09,50"
+439,814d6bddcb39a963cdd15ae120d65fda111212a5df02911237f667388a01d368,17.25, 2ème Année Bac Sciences Physiques - Option Français,PHILOSOPHIE,National,"10,50"
