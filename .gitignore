@@ -1,0 +1,47 @@
+# =============================================
+# .gitignore — bac-prediction-pipeline
+# =============================================
+
+# Données brutes — ne jamais versionner
+01_data/
+output/
+
+# Credentials & environnement
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VS Code
+.vscode/settings.json
+
+# Logs
+logs/
+*.log
+
+# Modèles ML (trop lourds pour GitHub)
+*.pkl
+*.joblib
+*.h5
+
+# Power BI (fichier binaire lourd)
+*.pbix
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
