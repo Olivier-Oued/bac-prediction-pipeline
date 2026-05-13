@@ -3,8 +3,10 @@
 # =============================================
 
 # Données brutes — ne jamais versionner
-01_data/
-output/
+01_data/*
+!01_data/.gitkeep
+output/*
+!output/.gitkeep
 
 # Credentials & environnement
 .env
